@@ -28,7 +28,7 @@ a { color:blue; text-decoration: none;}
 }
 .anchors {
     border-left: solid 1px #cdcdcd;
-    padding-left: 15px;
+    padding-left: 5px;
 }
 .sidebar {
     border-right: solid 1px #cdcdcd;
